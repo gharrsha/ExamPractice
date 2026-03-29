@@ -1,4 +1,4 @@
-class typescriptBasic1{
+class typescriptBasic13{
     constructor(){
 
     }
@@ -7,5 +7,5 @@ class typescriptBasic1{
     }
 }
 
-const ts1 = new typescriptBasic1();
-console.log(ts.greet());
+const ts13 = new typescriptBasic13();
+console.log(ts13.greet());
